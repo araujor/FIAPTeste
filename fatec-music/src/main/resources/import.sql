@@ -1,0 +1,2 @@
+insert into banda (nome, pais_origem,data_fundacao) values('Aviões do Forró','Brasil','2002-08-01'); 
+insert into musica (fk_banda,nome,genero,data_lancamento,duracao,internacional) values(1,'Risca Faca','Forró','2005-01-01',3.50,false);
