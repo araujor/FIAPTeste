@@ -28,7 +28,8 @@ public class TesteController {
 	
 	@Autowired
 	private DiscenteRepository rep;
-
+ 
+	
 	@Autowired
 	private PessoaRepository repP;
 
